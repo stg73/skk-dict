@@ -17,3 +17,8 @@ zipcode
     "https://github.com/skk-dev/dict/blob/master/zipcode/SKK-JISYO.zipcode"をもとに作成
     手順
         %s/\V\/$/;[郵]\// " コメントアウトを挿入
+
+作りたい辞書
+    慣用句
+    竹とんぼ用語
+    誤り訂正
