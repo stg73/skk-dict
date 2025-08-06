@@ -1,5 +1,5 @@
 すべての辞書は特定の分野に関する辞書であり SKK-JISYO.Lのような汎用的なものではない
 すべての辞書xについて xのすべての候補にはアノテーションyが存在し yはxの内容を示すサフィックスと候補に関する補足で構成される
-    例
+    "succulents.txt"の場合
         ああそうかい /Pachypodium geayi;多肉:/阿亜相界;多肉:/
         あいあいぎょく /Lithops karasmontana var.aiaisensis;多肉:/愛愛玉;多肉:/
