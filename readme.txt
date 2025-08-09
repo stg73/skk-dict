@@ -1,8 +1,8 @@
-lisp
+lisp.txt
     プログラム実行変換用の辞書
     corvusskkの独自実装なはず
 
-succulents
+succulents.txt
     多肉植物の名前と学名の辞書
     "https://supersabotentime.com/2185/"の"多肉植物ユーザー辞書A"をもとに作成
     作成手順 言語はvimscript gdefaultオプションを設定している
@@ -14,16 +14,16 @@ succulents
         %s/\V;[多肉]//g " 見出し語にも追加してしまうので それを消す
         %s/キリン/麒麟/ " 'キリン'を漢字に
 
-zipcode
+zipcode.txt
     郵便番号から住所を変換する辞書
     "https://github.com/skk-dev/dict/blob/master/zipcode/SKK-JISYO.zipcode"をもとに作成
     手順
         %s/\V\/$/;[郵]\// " コメントアウトを挿入
 
-idiom
+idiom.txt
     慣用句と諺の辞書
 
-line-drawing-characters
+line-drawing-characters.txt
     罫線素片の辞書
     狙った罫線素片を変換するのが難しかったので作った
     線の先端が接している向きと線の特徴にもとづいて分類されており 絞り込みを使うことを想定している
