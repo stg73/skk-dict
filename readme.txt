@@ -18,7 +18,7 @@ zipcode.txt
     郵便番号から住所を変換する辞書
     "https://github.com/skk-dev/dict/blob/master/zipcode/SKK-JISYO.zipcode"をもとに作成
     手順
-        %s/\V\/$/;[郵]\// " コメントアウトを挿入
+        %s/ \@<!\//;郵:\/ " コメントアウトを挿入
 
 idiom.txt
     慣用句と諺の辞書
