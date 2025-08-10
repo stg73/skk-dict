@@ -1,3 +1,9 @@
+"作成手順"のブロックはvimscriptで書かれている
+    設定しているオプション
+        gdefault
+        magic
+
+
 lisp.txt
     プログラム実行変換用の辞書
     corvusskkの独自実装なはず
@@ -5,7 +11,7 @@ lisp.txt
 succulents.txt
     多肉植物の名前と学名の辞書
     "https://supersabotentime.com/2185/"の"多肉植物ユーザー辞書A"をもとに作成
-    作成手順 言語はvimscript gdefaultオプションを設定している
+    作成手順
         g/\v\t[ワーラヤ マハナタサカアリミヒニチシキイルユムフヌッツスクウレエメィァェゥォャュョヘネテセケエヲロヨモホノトソコオンバダザガビヂジギヴブヅズグベデゼゲボドゾゴチパピプペポ]{-1,}\t/d " 変換先が片仮名のものを削除
         g/科/d " 多肉植物の辞書に載せるようなものでもないので削除
         %s/\v\t(固有名詞|多肉植物A)// " 不要な情報を削除
@@ -17,7 +23,7 @@ succulents.txt
 zipcode.txt
     郵便番号から住所を変換する辞書
     "https://github.com/skk-dev/dict/blob/master/zipcode/SKK-JISYO.zipcode"をもとに作成
-    手順
+    作成手順
         %s/ \@<!\//;郵:\/ " 注釈を挿入
 
 idiom.txt
