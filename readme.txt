@@ -5,7 +5,7 @@
 
 lisp.txt
     プログラム実行変換用の辞書
-    corvusskkの独自実装なはず
+    corvusskkの独自実装
 
 succulents.txt
     多肉植物の名前と学名の辞書
@@ -22,7 +22,7 @@ zipcode.txt
     郵便番号から住所を変換する辞書
     "https://github.com/skk-dev/dict/blob/master/zipcode/SKK-JISYO.zipcode"をもとに作成
     作成手順
-        %s/ \@<!\//;[郵]\/ " 注釈を挿入
+        %s/ \@<!\/@=/;[郵]/ " 注釈を挿入
 
 idiom.txt
     慣用句と諺の辞書
