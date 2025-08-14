@@ -4,6 +4,7 @@
 
 idiom.txt
     慣用句と諺の辞書
+    慣用句などのうちSKK-JISYO.Lに無いものを登録してある
 
 line-drawing-characters.txt
     罫線素片の辞書
