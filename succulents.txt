@@ -4655,7 +4655,7 @@
 しょーがーる /Kalanchoe tomentosa 'Show Girl';[多肉]/
 しらいとのおうひ /Agave filifera;[多肉]/Agave schidigera 'Shira ito no Ohi';[多肉]/白糸の王妃;[多肉]/
 しらいとのたき /Hatiora bambusoides;[多肉]/白糸の滝;[多肉]/
-しらかばきりん /Euphorbia mammillaris cv.'Variegata';[多肉]/Euphorbia mammillaris;[多肉]/Euphorbia mammillaris 'Variegata';[多肉]/白樺麒麟;[多肉]/白樺麒麟;[多肉]/
+しらかばきりん /Euphorbia mammillaris cv.'Variegata';[多肉]/Euphorbia mammillaris;[多肉]/Euphorbia mammillaris 'Variegata';[多肉]/白樺麒麟;[多肉]/
 しらきぬひめ /Tradescantia fusucata;[多肉]/白絹姫;[多肉]/
 しらぎくのなぎさ /Echeveria 'Shirayuki no Nagisa';[多肉]/白雪の渚;[多肉]/
 しらぎくのまい /Echeveria 'Shiragikunomai';[多肉]/白菊の舞;[多肉]/
@@ -6063,6 +6063,7 @@
 たんえんちーず /Echeveria 'Tangyuan Cheese';[多肉]/湯園チーズ;[多肉]/
 たんくあな /Tanquana;[多肉]/
 たんけん /Carpobrotus acinaciformis;[多肉]/短剣;[多肉]/
+たんげまる /Echinopsis eyriesii;[多肉]/短毛丸;[多肉]/
 たんしうちわ /Opuntia monacantha;[多肉]/Opuntia vulgaris;[多肉]/単刺団扇;[多肉]/短刺団扇;[多肉]/
 たんしぞうげまる /Coryphantha elephantidens 'Tanshi';[多肉]/短刺象牙丸;[多肉]/
 たんしゅん /Conophytum altum;[多肉]/淡春;[多肉]/
@@ -6073,7 +6074,6 @@
 たんばたろう /Pachycereus grandis;[多肉]/丹羽太郎;[多肉]/
 たんほるん /Sempervivum 'Tanhorn';[多肉]/
 たんもううちわ /Opuntia microdasys;[多肉]/短毛団扇;[多肉]/
-たんげまる /Echinopsis eyriesii;[多肉]/短毛丸;[多肉]/
 たんりょくうちわ /Opuntia chlortica;[多肉]/淡緑団扇;[多肉]/
 たんりんくじゃく /Eccremocactus bradei;[多肉]/短輪孔雀;[多肉]/
 たんりんまる /Lobivia breviflora;[多肉]/短輪丸;[多肉]/
