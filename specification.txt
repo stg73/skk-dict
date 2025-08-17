@@ -2,5 +2,5 @@
 すべての辞書aについて aの内容を示す文字列bが1つ存在し aのすべての候補cについて cは注釈dを持ち 空文字列もしくはcに関する補足であるeが存在し 以下が成り立つ
     d ::= "[" b "]" e
     "succulents.txt"の場合
-        ああそうかい /Pachypodium geayi;多肉:/阿亜相界;多肉:/
-        あいあいぎょく /Lithops karasmontana var.aiaisensis;多肉:/愛愛玉;多肉:/
+        ああそうかい /Pachypodium geayi;[多肉]/阿亜相界;[多肉]/
+        あいあいぎょく /Lithops karasmontana var.aiaisensis;[多肉]/愛愛玉;[多肉]/
