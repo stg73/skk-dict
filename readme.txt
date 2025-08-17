@@ -39,12 +39,6 @@ succulents.txt
         %s/\v @<!\/@=/;[多肉]/ " [多肉]の注釈を挿入
         %s/キリン/麒麟/ " 'キリン'を漢字に
 
-zipcode.txt
-    郵便番号から住所を変換する辞書
-    "https://github.com/skk-dev/dict/blob/master/zipcode/SKK-JISYO.zipcode"をもとに作成
-    作成手順
-        %s/\v @<!\/@=/;[郵]/ " 注釈を挿入
-
 作りたい辞書
     竹とんぼ用語
     誤り訂正
