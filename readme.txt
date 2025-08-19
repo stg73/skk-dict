@@ -4,11 +4,11 @@
     設定しているオプション
         gdefault
 
-idiom.txt
+idiom.skk
     慣用句と諺の辞書
     慣用句などのうちSKK-JISYO.Lに無いものを登録してある
 
-line-drawing-characters.txt
+line-drawing-characters.skk
     罫線素片の辞書
     狙った罫線素片を変換するのが難しかったので作った
     絞り込みを使うことを想定している
@@ -24,11 +24,11 @@ line-drawing-characters.txt
         ╠ ╡ ╢ ╣ ╤ ╥ ╦ ╧ ╨ ╩ ╪ ╫ ╬ ╭ ╮ ╯
         ╰ ╱ ╲ ╳ ╴ ╵ ╶ ╷ ╸ ╹ ╺ ╻ ╼ ╽ ╾ ╿
 
-lisp.txt
+lisp.skk
     プログラム実行変換用の辞書
     corvusskkの独自実装
 
-succulents.txt
+succulents.skk
     多肉植物の名前と学名の辞書
     "https://supersabotentime.com/2185/"の"多肉植物ユーザー辞書A"をもとに作成
     作成手順
