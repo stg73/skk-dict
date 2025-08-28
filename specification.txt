@@ -6,6 +6,7 @@
         以下のBNFが成り立つ
             <kouho> ::= 候補 <annotation>
             <annotation> ::= "[" bunnrui "]" | "[" bunnrui "]" 補足
-    "succulents.txt"の場合
-        ああそうかい /Pachypodium geayi;[多肉]/阿亜相界;[多肉]/
-        あいあいぎょく /Lithops karasmontana var.aiaisensis;[多肉]/愛愛玉;[多肉]/
+例
+    "bamboo-copter.skk"
+        じゅんたけ /純竹;[竹とんぼ]略称/
+        じゅんたけ> /純竹;[竹とんぼ]/
