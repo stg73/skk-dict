@@ -1,6 +1,11 @@
 すべての辞書は特定の分野に関する辞書であり SKK-JISYO.Lのような汎用的なものではない
-すべての辞書aについて aの内容を示す文字列bが1つ存在し aのすべての候補cについて cは注釈dを持ち 空文字列もしくはcに関する補足であるeが存在し 以下が成り立つ
-    d ::= "[" b "]" e
+すべての辞書dictについて
+    dictの分類を表す文字列を短縮したbunnruiが1つ存在する
+    bunnruiは曖昧でないかつ不自然でない
+    dictのすべての候補<kouho>について
+        以下のBNFが成り立つ
+            <kouho> ::= 候補 <annotation>
+            <annotation> ::= "[" bunnrui "]" | "[" bunnrui "]" 補足
     "succulents.txt"の場合
         ああそうかい /Pachypodium geayi;[多肉]/阿亜相界;[多肉]/
         あいあいぎょく /Lithops karasmontana var.aiaisensis;[多肉]/愛愛玉;[多肉]/
