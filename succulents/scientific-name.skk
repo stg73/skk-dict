@@ -1109,7 +1109,6 @@
 うーるこっつばらえてぃ /Sempervivum 'Woolcotts Variety';[多肉]/
 うーるやーん /Sempervivum 'Wool Yarn';[多肉]/
 うーれい /Haworthiopsis woolleyi;[多肉]/
-えいえんのはな /Echeveria Towanohana;[多肉]/
 えいかぎょく /Notocactus fuscus;[多肉]/
 えいかまる /Mammillaria erythrocalyx;[多肉]/
 えいかん /Echinomastus johnsonii;[多肉]/
@@ -2638,7 +2637,7 @@
 きんじし /Cereus variabilis f. monst;[多肉]/Cereus variabilis f. monstrosus;[多肉]/
 きんじとう /Echinocereus pensilis;[多肉]/
 きんじょうまる /Trichocereus candicans;[多肉]/
-きんせい /Dolichothele longimamma;[多肉]/Orostachys iwarenge 'Kinboshi';[多肉]/Orostachys Kinsei;[多肉]/Orostachys malacophylla var. iwarenge f. variegata;[多肉]/
+きんせい /Dolichothele longimamma;[多肉]/Orostachys 'Kinsei';[多肉]/Orostachys malacophylla var. iwarenge f. variegata;[多肉]/
 きんせいかく /Pilosocereus pachycladus;[多肉]/
 きんせいまる /Echinopsis calochlora;[多肉]/Eriocactus leninghausii;[多肉]/
 きんせきりゅう /Ferocactus wislizenii;[多肉]/
@@ -2663,6 +2662,7 @@
 きんほうりゅう /Pilosocereus chrysacanthus;[多肉]/
 きんぼうちゅう /Haageocereus akersii;[多肉]/
 きんぼうりゅう /Weberbauerocereus johnsonii;[多肉]/
+きんぼし /Dolichothele longimamma;[多肉]/Orostachys iwarenge 'Kinboshi';[多肉]/Orostachys malacophylla var. iwarenge f. variegata;[多肉]/
 きんぽう /Trichodiadema rogersiae;[多肉]/
 きんぽうまる /Rebutia chrysacantha;[多肉]/
 きんもううちわ /Opuntia scheerii;[多肉]/
@@ -3085,7 +3085,6 @@
 くれちかむ /Cyclamen creticum;[多肉]/
 くれないぎんせかい /Haworthia 'Akai Ginsekai';[多肉]/
 くれないのしお /Conophytum 'Beni No Sio';[多肉]/
-くれないのつる /Echeveria 'Beninotsuru';[多肉]/Echeveria 'Beninoturu';[多肉]/
 くれなーた /Agave crenata;[多肉]/
 くれなーつむ /Epiphyllum crenatum;[多肉]/
 くれぬらーた /Crassula crenulata;[多肉]/
@@ -3504,6 +3503,7 @@
 こうぎょく /Euphorbia obesa;[多肉]/Frithia pulchra;[多肉]/Lithops gracilidelineata;[多肉]/Lithops mundtii;[多肉]/Lithops pseudotruncatella 'Mundtii';[多肉]/Lithops gracilidelineata ssp. gracilidelineata;[多肉]/Lithops gracilidelineata ssp. gracilidelineata var. gracilidelineata;[多肉]/
 こうぎょくまる /Ferocactus tawnsendianus;[多肉]/
 こうくままる /Pyrrhocactus strausianus;[多肉]/
+こうくんか /Sempervivum tectorum 'Koukunka';[多肉]/
 こうげい /Agave titanota 'Black Whale';[多肉]/
 こうげん /Haworthia reinwardtii var. tribuneri;[多肉]/
 こうこうまる /Lobivia arachnacantha;[多肉]/Mammillaria roseoslba;[多肉]/
@@ -4794,7 +4794,7 @@
 しろべんけいそう /Sedum album;[多肉]/
 しろぼし /Mammillaria plumosa;[多肉]/
 しろぼしりゅう /Gasteria carinata var. verrucosa;[多肉]/
-しろぼたん /Echeveria 'Hakubotan';[多肉]/Graptoveria 'Titubans';[多肉]/
+しろぼたん /Graptoveria 'Titubans';[多肉]/
 しろぼたんにしき /Graptoveria 'Titubans' f. variegata;[多肉]/
 しろまよーる /Haworthia schldtiana var. major alba;[多肉]/
 しろまんだら /Agave chihuahuana;[多肉]/
@@ -6003,7 +6003,7 @@
 たびびとがめ /Cyphostemma cramerianum;[多肉]/
 たほうとう /Astroloba foliolosa;[多肉]/Euphorbia melanohydrata;[多肉]/
 たぼらえんしす /Euphorbia taboraensis;[多肉]/
-たまあずさ /Crassula 'Tamazusa';[多肉]/Crassula 'Emerald';[多肉]/
+たまあずさ /Crassula 'Tamaazusa';[多肉]/Crassula 'Emerald';[多肉]/
 たまうさぎ /Echeveria 'Jade Rabbit';[多肉]/
 たまうちわ /Opuntia longispina;[多肉]/
 たまうりぱな /Echeveria tamaulipana;[多肉]/
@@ -7006,6 +7006,7 @@
 とろもとりけ /Tromotriche;[多肉]/
 とろりー /Didierea trolii;[多肉]/Monadenium torreyi;[多肉]/
 とわいらいと /Echeveria Twilight;[多肉]/Graptoveria 'Twilight';[多肉]/
+とわのはな /Echeveria 'Towa-no-Hana';[多肉]/
 とんぷそにあえ /Aloe thompsoniae;[多肉]/
 とんぷそにあな /Yucca thompsoniana;[多肉]/
 とんぼ /Aloe striata;[多肉]/
@@ -7530,6 +7531,8 @@
 はくほうにしき /Echeveria 'Hakuhou' f. variegata;[多肉]/
 はくほうりゅう /Echinofossulocactus baedekerianus;[多肉]/
 はくぼうりゅう /Cleistocactus strausii var. fricii;[多肉]/Haageocereus platinospinus;[多肉]/
+はくぼたん /Graptoveria 'Titubans';[多肉]/
+はくぼたんにしき /Graptoveria 'Titubans' f. variegata;[多肉]/
 はくま /Gibbaeum album;[多肉]/
 はくまとう /Euphorbia royleana;[多肉]/
 はくむおきな /Arequipa spinosissima;[多肉]/
@@ -9656,9 +9659,9 @@
 べにていとう /Kalanchoe manginii;[多肉]/
 べにてまり /Echeveria 'Beni Temari';[多肉]/
 べにとういんにしき /Kalanchoe thyrsiflora f. variegata;[多肉]/
-べにとうか /Sempervivum tectorum 'Kokunka';[多肉]/Sempervivum tectorum 'Koukunka';[多肉]/
 べにとげえび /Echinocereus melanocentrus;[多肉]/
 べにとげおいらく /Espostoa lanata var. rubrispina;[多肉]/
+べにのつる /Echeveria 'Beninoturu';[多肉]/
 べにはなうちわ /Opuntia bergeriana;[多肉]/
 べにばきりん /Synadenium grantii f. ;[多肉]/
 べにばなきんぶせん /Opuntia coccinea;[多肉]/
