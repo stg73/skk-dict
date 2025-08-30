@@ -1,8 +1,6 @@
 文字入力を強化するためのSKK辞書群
 
-"作成手順"のブロックはvimscriptで書かれている
-    設定しているオプション
-        gdefault
+"作成手順"のブロックはvimscriptで書かれている "gdefault"を設定している
 
 idiom.skk
     慣用句と諺の辞書
