@@ -28,8 +28,8 @@ lisp.skk
     プログラム実行変換用の辞書
     corvusskkの独自実装
 
-succulents.skk
-    多肉植物の名前と学名の辞書
+succulents
+    多肉植物に関する辞書群
     "https://supersabotentime.com/2185/"の"多肉植物ユーザー辞書A"をもとに作成
     作成手順
         g/\v\t[ワーラヤ マハナタサカアリミヒニチシキイルユムフヌッツスクウレエメィァェゥォャュョヘネテセケエヲロヨモホノトソコオンバダザガビヂジギヴブヅズグベデゼゲボドゾゴチパピプペポ]{-1,}\t/d " 変換候補が片仮名のものを削除
@@ -38,6 +38,11 @@ succulents.skk
         %s/\t/ \// " SKK辞書の形にする
         %s/\v @<!\/@=/;[多肉]/ " [多肉]の注釈を挿入
         %s/キリン/麒麟/ " 'キリン'を漢字に
+
+    succulents/japanese-name.skk
+        和名の辞書
+    succulents/scientific-name.skk
+        学名の辞書
 
 作りたい辞書
     竹とんぼ用語
