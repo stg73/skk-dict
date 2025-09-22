@@ -2,6 +2,9 @@
 
 "作成手順"のブロックはvimscriptで書かれている "gdefault"を設定している
 
+bamboo-copter.skk
+    竹とんぼ用語の辞書
+
 idiom.skk
     慣用句と諺の辞書
     慣用句などのうちSKK-JISYO.Lに無いものを登録してある
@@ -41,6 +44,10 @@ succulents
         和名の辞書
     succulents/scientific-name.skk
         学名の辞書
+
+wrong.skk
+    "はこびる"などを誤りを補正し 正しい形を示してくれる辞書
+    昔"ゆういつ"が変換できなくて困ったことがあり そういう時に誤りを補正して正しい形も示してくれる辞書が欲しかった
 
 作りたい辞書
     誤り訂正
