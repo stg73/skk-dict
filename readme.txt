@@ -40,10 +40,14 @@ succulents
         %s/\v @<!\/@=/;[多肉]/ " [多肉]の注釈を挿入
         %s/キリン/麒麟/ " 'キリン'を漢字に
 
+    succulents/genus-name.skk
+        属名の辞書
     succulents/japanese-name.skk
         和名の辞書
     succulents/scientific-name.skk
         学名の辞書
+    succulents/term.skk
+        用語の辞書
 
 wrong.skk
     "はこびる"などを誤りを補正し 正しい形を示してくれる辞書
