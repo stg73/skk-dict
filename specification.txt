@@ -1,13 +1,14 @@
 全角と半角がある文字は半角にする
 エントリーの順番に意味が無いのであればskkdic-expr2などでソートする
 すべての辞書は特定の分野に関する辞書であり SKK-JISYO.Lのような汎用的なものではない
-すべての辞書dictについて
-    dictの分類を表す文字列を短縮したbunnruiが1つ存在する
-    bunnruiは曖昧でないかつ不自然でない
-    dictのすべての候補<kouho>について
+すべての辞書について
+    辞書の分類を表す文字列を短縮した分類が1つ存在する
+    分類は曖昧でないかつ不自然でない
+    辞書のすべての候補<kouho>について
         以下のBNFが成り立つ
             <kouho> ::= 候補 <annotation>
-            <annotation> ::= "[" bunnrui "]" | "[" bunnrui "]" 補足
+            <annotation> ::= <bunnrui> | <bunnrui> 補足
+            <bunnrui> ::= "[" 分類 "]"
 例
     "bamboo-copter.skk"
         じゅんたけ /純竹;[竹とんぼ]略称/
