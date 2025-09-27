@@ -25,6 +25,22 @@ line-drawing-characters.skk
         ╠ ╡ ╢ ╣ ╤ ╥ ╦ ╧ ╨ ╩ ╪ ╫ ╬ ╭ ╮ ╯
         ╰ ╱ ╲ ╳ ╴ ╵ ╶ ╷ ╸ ╹ ╺ ╻ ╼ ╽ ╾ ╿
 
+line-drawing-characters_ascii.skk
+    罫線素片をアスキー文字を並べて表現した辞書
+
+    線の向き
+        上: "k"
+        右: "l"
+        下: "j"
+        左: "h"
+
+    線に前置するもの
+        二重線: "d"
+
+    最初に置くもの
+        角丸: "."
+        点線 破線: 線の分割数
+
 lisp.skk
     プログラム実行変換用の辞書
     corvusskkの独自実装
