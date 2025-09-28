@@ -19,7 +19,7 @@ line-drawing-characters_ascii.skk
         左: "h"
 
     線に前置するもの
-        二重線: "d"
+        二重線: "="
 
     最初に置くもの
         角丸: "."
