@@ -21,8 +21,7 @@ bamboo-copter.skk
     竹とんぼ用語の辞書
 
 idiom.skk
-    慣用句と諺の辞書
-    慣用句などのうちSKK-JISYO.Lに無いものを登録してある
+    慣用句の辞書
 
 line-drawing-characters.skk
     罫線素片をアスキー文字を並べて表現した辞書
