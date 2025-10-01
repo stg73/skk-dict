@@ -9,7 +9,7 @@ idiom.skk
     慣用句と諺の辞書
     慣用句などのうちSKK-JISYO.Lに無いものを登録してある
 
-line-drawing-characters_ascii.skk
+line-drawing-characters.skk
     罫線素片をアスキー文字を並べて表現した辞書
 
     線の向き
