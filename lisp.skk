@@ -1,3 +1,5 @@
+;; okuri-ari entries.
+;; okuri-nasi entries.
 #y /(skk-strftime "%Y年" "year" #0);[実行]/
 #mo /(skk-strftime "%Y年%m月" "month" #0);[実行]/
 #d /(skk-strftime "%Y年%m月%d日%a曜日" "day" #0);[実行]/
