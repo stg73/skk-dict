@@ -18,7 +18,7 @@ lisp.skk
 succulents
     多肉植物に関する辞書群
 
-    "https://supersabotentime.com/12578/"の"多肉植物ユーザー辞書A"("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt")をもとに作成
+    "term.skk"以外は"https://supersabotentime.com/12578/"の"多肉植物ユーザー辞書A"("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt")をもとに作られている
     作成手順 vimscriptで書かれている "gdefault"を設定している
         g/\v\t[ワーラヤ マハナタサカアリミヒニチシキイルユムフヌッツスクウレエメィァェゥォャュョヘネテセケエヲロヨモホノトソコオンバダザガビヂジギヴブヅズグベデゼゲボドゾゴチパピプペポ]{-1,}\t/d " 変換候補が片仮名のものを削除
         g/科/d " 多肉植物の辞書に載せるようなものでもないので削除
