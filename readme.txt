@@ -7,6 +7,7 @@ bamboo-copter.skk
 
 idiom.skk
     慣用句
+    文脈を加味できないというSKKの欠点を補うこともできる
 
 line-drawing-characters.skk
     罫線素片
