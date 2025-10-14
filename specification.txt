@@ -50,8 +50,7 @@ line-drawing-characters.skk
         ╰ ╱ ╲ ╳ ╴ ╵ ╶ ╷ ╸ ╹ ╺ ╻ ╼ ╽ ╾ ╿
 
 lisp.skk
-    プログラム実行変換用の辞書
-    corvusskkの独自実装
+    corvusskk用のプログラム実行変換用の辞書
 
 succulents
     多肉植物に関する辞書群
