@@ -18,7 +18,7 @@ lisp.skk
 succulents
     多肉植物に関する辞書群
 
-    "term.skk"以外は"https://supersabotentime.com/12578/"の"多肉植物ユーザー辞書A"("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt")をもとに作られている
+    "succulents/term.skk"以外は"https://supersabotentime.com/12578/"の"多肉植物ユーザー辞書A"("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt")をもとに作られている
 
     succulents/genus-name.skk
         属名
