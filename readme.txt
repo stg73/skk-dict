@@ -1,7 +1,9 @@
 日本語入力方式SKKのための辞書群
 動作確認はCorvusSKKで行なっている
 
-各辞書の説明 仕様は"specification.txt"
+仕様は"specification.txt"
+
+以下 各辞書の説明
 
 bamboo-copter.skk
     竹とんぼ
@@ -19,7 +21,8 @@ lisp.skk
 succulents
     多肉植物に関する辞書群
 
-    "succulents/term.skk"以外は"https://supersabotentime.com/12578/"の"多肉植物ユーザー辞書A"("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt")をもとに作られている
+    "succulents/term.skk"以外
+        "https://supersabotentime.com/12578/" の "多肉植物ユーザー辞書A" ("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt") をもとに作られている
 
     succulents/genus-name.skk
         属名
