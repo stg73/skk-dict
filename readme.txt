@@ -1,4 +1,5 @@
 日本語入力方式SKKのための辞書群
+動作確認はCorvusSKKで行なっている
 
 各辞書の説明 仕様は"specification.txt"
 
