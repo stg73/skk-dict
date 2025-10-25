@@ -22,7 +22,7 @@ succulents
     多肉植物に関する辞書群
 
     "succulents/term.skk"以外
-        "https://supersabotentime.com/12578/" の "多肉植物ユーザー辞書A" ("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt") をもとに作られている
+        "https://supersabotentime.com/12578/" の "多肉植物ユーザー辞書A" ("https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt") をもとに作成
         正確性はまだ不十分
 
     succulents/genus-name.skk
