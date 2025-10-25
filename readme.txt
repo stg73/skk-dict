@@ -10,7 +10,7 @@ bamboo-copter.skk
 
 idiom.skk
     慣用句
-    文脈を加味できないというSKKの欠点を補うこともできる
+    文脈を考慮した変換ができないSKKの欠点を補うことができる
 
 line-drawing-characters.skk
     罫線素片
