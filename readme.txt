@@ -45,3 +45,6 @@ wrong.skk
 
     ボカロ/character.skk
         キャラクター
+
+    ボカロ/song.skk
+        曲
