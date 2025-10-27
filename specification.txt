@@ -19,6 +19,9 @@
 bamboo-copter.skk
     竹とんぼ用語の辞書
 
+horticulture.skk
+    園芸用語の辞書
+
 idiom.skk
     慣用句の辞書
 
@@ -67,9 +70,18 @@ succulents
     succulents/term.skk
         用語の辞書
 
+website.skk
+    サイト名からドメイン名を変換する辞書
+
 wrong.skk
     誤りを補正し 正しい形を示す辞書
     分類の注釈の後に正しい表記が平仮名で書かれている
 
-ボカロ.skk
-    広義のボカロに関する辞書
+ボカロ
+    広義のボカロに関する辞書群
+
+    ボカロ/character.skk
+        キャラクターの辞書
+
+    ボカロ/song.skk
+        曲の辞書

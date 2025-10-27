@@ -8,6 +8,9 @@
 bamboo-copter.skk
     竹とんぼ
 
+horticulture.skk
+    園芸
+
 idiom.skk
     慣用句
     文脈を考慮した変換ができないSKKの欠点を補うことができる
@@ -36,6 +39,9 @@ succulents
 
     succulents/term.skk
         用語
+
+website.skk
+    ウェブサイト
 
 wrong.skk
     "はこびる"などの誤りを補正し 正しい形を示してくれる辞書 たとえば "はこびr /蔓延;[誤]はびこr/"
