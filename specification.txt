@@ -27,6 +27,14 @@ idiom.skk
 line-drawing-characters.skk
     罫線素片をアスキー文字を並べて表現した辞書
 
+    BNF
+        <Midasi> ::= <prefix> <k> <l> <j> <h>
+        <prefix> ::= "\=" | "\." | "\d" | ""
+        <k> ::= "k" | "k=" | "K" | ""
+        <l> ::= "l" | "l=" | "L" | ""
+        <j> ::= "j" | "j=" | "J" | ""
+        <h> ::= "h" | "h=" | "H" | ""
+
     線の向き
         上: "k"
         右: "l"
